@@ -1,2 +1,2 @@
 # project-1
-Todo application using mern stack
+real time Website for interior bussiness
